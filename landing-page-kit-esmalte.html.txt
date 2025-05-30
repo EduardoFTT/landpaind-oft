@@ -1,0 +1,155 @@
+<details> <summary><strong><!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kit Expositor de Esmaltes - Promoção</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fffafc;
+      color: #333;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1, h2, h3 {
+      color: #e91e63;
+    }
+    .button {
+      background-color: #e91e63;
+      color: white;
+      padding: 15px 25px;
+      text-align: center;
+      display: inline-block;
+      font-size: 18px;
+      margin-top: 20px;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+    }
+    .highlight {
+      color: #e91e63;
+      font-weight: bold;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .testimonial {
+      background-color: #fbe9f1;
+      padding: 15px;
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+    .testimonial img {
+      width: 100%;
+      max-width: 300px;
+      margin-top: 10px;
+      border-radius: 10px;
+    }
+    .img-gallery {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      margin-top: 15px;
+    }
+    .img-gallery img {
+      width: 100%;
+      max-width: 200px;
+      border-radius: 8px;
+    }
+    .main-image {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+      margin: 20px auto;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    @media (max-width: 600px) {
+      .img-gallery {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>💅 Transforme seu espaço com organização e estilo!</h1>
+
+  <img src="https://down-br.img.susercontent.com/file/br-11134103-7r98o-m6xkdzqmwfu843.webp" alt="Kit Expositor de Esmaltes" class="main-image">
+
+  <div class="section">
+    <h2>✨ Kit Profissional de Expositores para Esmaltes</h2>
+    <p>Ideal para salões, manicures autônomas ou apaixonadas por nail art.</p>
+  </div>
+
+  <div class="section">
+    <h3>✅ O que você recebe:</h3>
+    <ul>
+      <li>6 expositores de 60cm x 5cm x 5cm</li>
+      <li><span class="highlight">1 expositor extra de brinde</span> (total de 7 unidades!)</li>
+      <li>Transparente, empilhável e fácil de limpar</li>
+      <li>Visual profissional e organização total</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h3>💸 De <del>R$ 180,00</del> por apenas <span class="highlight">R$ 159,90</span> à vista</h3>
+    <p>Ou em até <strong>3x sem juros</strong> no cartão.</p>
+    <p><span class="highlight">Promoção válida por tempo limitado!</span></p>
+  </div>
+
+  <div class="section">
+    <h3>🎁 Bônus Exclusivo</h3>
+    <p>Comprando hoje, você recebe <strong>1 expositor extra</strong> totalmente grátis. Leve 7, pague 6!</p>
+  </div>
+
+  <div class="section">
+    <h3>💬 Depoimentos reais com imagens:</h3>
+    <div class="testimonial">
+      ⭐⭐⭐⭐⭐<br>
+      “Organizei meu carrinho de manicure em minutos! Fica lindo e super prático.”<br>
+      <strong>— Lívia R. | BH</strong>
+      <img src="https://down-br.img.susercontent.com/file/br-11134103-7r98o-m4vswwa0rk2838.webp" alt="Depoimento 1">
+    </div>
+    <div class="testimonial">
+      ⭐⭐⭐⭐⭐<br>
+      “Achei que era frágil, mas é super resistente! E ainda ganhei um de brinde 😍.”<br>
+      <strong>— Juliana S. | Recife</strong>
+      <img src="https://down-br.img.susercontent.com/file/br-11134103-7r98o-m5jocu3hzuyt91.webp" alt="Depoimento 2">
+    </div>
+  </div>
+
+  <div class="section">
+    <h3>📸 Mais clientes satisfeitas:</h3>
+    <div class="img-gallery">
+      <img src="https://down-br.img.susercontent.com/file/br-11134103-7r98o-m35gaixoxxjn71.webp" alt="Foto cliente 3">
+      <img src="https://down-br.img.susercontent.com/file/br-11134103-7r98o-m28yueyptpee0d.webp" alt="Foto cliente 4">
+    </div>
+  </div>
+
+  <div class="section">
+    <h3>🛒 Benefícios que vendem sozinhos:</h3>
+    <ul>
+      <li>Visual limpo e profissional</li>
+      <li>Praticidade no dia a dia</li>
+      <li>Ideal para atender em domicílio</li>
+      <li>Fácil de higienizar</li>
+      <li>Entrega rápida para todo o Brasil</li>
+    </ul>
+  </div>
+
+  <div class="section" style="text-align: center;">
+    <a href="https://hotmart.com/paylink-exemplo" class="button">🛍️ QUERO MEU KIT AGORA</a>
+    <p style="margin-top:10px;">Pagamento seguro via Hotmart • Envio imediato</p>
+  </div>
+
+  <div class="section">
+    <h3>⚠️ Estoque limitado</h3>
+    <p>Apenas <strong>[X]</strong> kits restantes com o brinde. Aproveite antes que acabe!</p>
+  </div>
+
+</body>
+</html>
+</strong></summary>
